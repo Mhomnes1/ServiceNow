@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Service Portal Homepage - Container 2</name>
+        <order>2</order>
+        <sp_page display_value="service_portal_homepage">5f17e9a82f3c3110e33f309cf699b66e</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 11:51:05</sys_created_on>
+        <sys_id>5f17e9a82f3c3110e33f309cf699b671</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Service Portal Homepage - Container 2</sys_name>
+        <sys_package display_value="HelloWorld" source="x_1108102_hellowor">1026ad682f3c3110e33f309cf699b6f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HelloWorld">1026ad682f3c3110e33f309cf699b6f2</sys_scope>
+        <sys_update_name>sp_container_5f17e9a82f3c3110e33f309cf699b671</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 11:51:20</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HelloWorld">1026ad682f3c3110e33f309cf699b6f2</application>
+        <file_path/>
+        <instance_id>98b97af7db0224d0b847ac44d49619a6</instance_id>
+        <instance_name>dev106388</instance_name>
+        <name>sp_container_5f17e9a82f3c3110e33f309cf699b671</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Service Portal Homepage - Container 2</name><order>2</order><sp_page display_value="service_portal_homepage">5f17e9a82f3c3110e33f309cf699b66e</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-18 11:51:05</sys_created_on><sys_id>5f17e9a82f3c3110e33f309cf699b671</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Service Portal Homepage - Container 2</sys_name><sys_package display_value="HelloWorld" source="x_1108102_hellowor">1026ad682f3c3110e33f309cf699b6f2</sys_package><sys_policy/><sys_scope display_value="HelloWorld">1026ad682f3c3110e33f309cf699b6f2</sys_scope><sys_update_name>sp_container_5f17e9a82f3c3110e33f309cf699b671</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-18 11:51:20</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>141235426</payload_hash>
+        <record_name>Service Portal Homepage - Container 2</record_name>
+        <reverted_from/>
+        <source>9c26ad682f3c3110e33f309cf699b6f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 11:51:20</sys_created_on>
+        <sys_id>c32765e82f3c3110e33f309cf699b6f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a087c56050000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 11:51:20</sys_updated_on>
+        <type>Container</type>
+        <update_guid>cb2765e8783c3110c4bd77c2fc0d4df7</update_guid>
+        <update_guid_history>cb2765e8783c3110c4bd77c2fc0d4df7:141235426,9b17e9a85f3c311076deb870fb6fd673:1539367395</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Portal Homepage - Container 2">d537a5e82f3c3110e33f309cf699b668</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 11:51:29</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>20209a0128f941578e3dd674274d7651</sys_id>
+        <sys_metadata>5f17e9a82f3c3110e33f309cf699b671</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Portal Homepage - Container 2</sys_name>
+        <sys_package display_value="HelloWorld" source="x_1108102_hellowor">1026ad682f3c3110e33f309cf699b6f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HelloWorld">1026ad682f3c3110e33f309cf699b6f2</sys_scope>
+        <sys_scope_delete display_value="">0fb51583d0d7484293715163c2884b24</sys_scope_delete>
+        <sys_update_name>sp_container_5f17e9a82f3c3110e33f309cf699b671</sys_update_name>
+        <sys_update_version display_value="sp_container_5f17e9a82f3c3110e33f309cf699b671">c32765e82f3c3110e33f309cf699b6f8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 11:51:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

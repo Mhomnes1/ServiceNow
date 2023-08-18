@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">ee5725e82f3c3110e33f309cf699b6e0</sp_column>
+        <sp_widget display_value="Calculator">974a652347332100ba13a5554ee49089</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 11:52:11</sys_created_on>
+        <sys_id>5f572da82f3c3110e33f309cf699b69c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="HelloWorld" source="x_1108102_hellowor">1026ad682f3c3110e33f309cf699b6f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HelloWorld">1026ad682f3c3110e33f309cf699b6f2</sys_scope>
+        <sys_update_name>sp_instance_5f572da82f3c3110e33f309cf699b69c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 11:52:44</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=5f572da82f3c3110e33f309cf699b69c"/>
+</record_update>
